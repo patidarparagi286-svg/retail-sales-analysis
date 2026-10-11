@@ -92,13 +92,6 @@ The project uses the **Sample Superstore** dataset (`Sample - Superstore.csv`), 
 
 ---
 
-## 🖼️ Visualizations
-
-<!-- ![Category Sales and Profit](images/category_sales_profit.png) -->
-<!-- ![Discount vs Profit](images/discount_vs_profit.png) -->
-
----
-
 ## 💡 Business Recommendations
 
 1. **Review high-discount transactions** and set discount limits where profit turns negative.

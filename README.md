@@ -94,7 +94,6 @@ The project uses the **Sample Superstore** dataset (`Sample - Superstore.csv`), 
 
 ## 🖼️ Visualizations
 
-<!-- Add screenshots of your charts here, for example: -->
 <!-- ![Category Sales and Profit](images/category_sales_profit.png) -->
 <!-- ![Discount vs Profit](images/discount_vs_profit.png) -->
 
@@ -114,8 +113,8 @@ The project uses the **Sample Superstore** dataset (`Sample - Superstore.csv`), 
 
 1. Clone this repository:
 ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/patidarparagi286-svg/retail-sales-analysis.git
+   cd retail-sales-analysis
 ```
 2. Install the required libraries:
 ```bash
